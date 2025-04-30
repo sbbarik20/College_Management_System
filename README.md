@@ -64,5 +64,6 @@ A comprehensive **web-based application** built using **Java Spring Boot** and *
 ## 👤 Author
 Full Stack Java Developer
 [LinkedIn](https://www.linkedin.com/in/shakti-bhusan-sb20/)
+
 Crafted with ❤️ by Shakti
 
